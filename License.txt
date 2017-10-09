@@ -1,0 +1,15 @@
+=========================--- adNomus REST API License ---=====================
+Copyright adNomus Inc. 2017
+
+This REST API is released by adNomus Inc. to its current and future customers.
+Its purpose is to provide instant, secure and up-to-date access to the adNomus
+service. This product is meant to be used  as "it is". Please email
+support@adnomus.com to request new features and report any problems or bugs. adNomus
+Inc. provides this REST API for its service integration with your current and
+future products, however adNomus Inc. does not hold any responsibility regarding
+your product operation and quality status.
+
+This REST API specification is allowed to be included, in binary/text form, to any
+customer product regardless its license and no copyright statement is required.
+
+adNomus REST API License, Version 1.0
