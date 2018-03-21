@@ -42,7 +42,7 @@ Each **Request** is an HTTPS post operation with a body containing JSON content 
 }
 ```
 The JSON content is a dictionary containing 2 nested dictionaries:
- *   **Authentication:** This dictionary provides your credentials for using the service and is required by every request. Here, we include testing credentials but you will need to get your production credentials.
+ *   **Authentication:** This dictionary provides your credentials for using the service and is required by every request. **Please contact adNomus to receive your credentials before proceeding**.
  *   **Request Specific:** This dictionary is API specific.
 
 **Note:** Our analytics support requests with diverse content sizes. In order to make service access more efficient for long content requests, we support compression. We support standard **gzip** compression.
